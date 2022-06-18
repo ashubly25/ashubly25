@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I am Ashutosh 👋
+
+- 🔭 I’m currently working on solving minuscle problem through building project.
+- 🌱 I’m currently learning serverless functions.
+- 👯 I’m looking to collaborate on solving problems
+- 💬 Ask me about Frontend, Backend, System Design and Microservice.
+- 📫 Reach me out on [Twitter](https://twitter.com/ashubly25) / [Linkedin](https://www.linkedin.com/in/ashubly25)
+
+
 
 <!--
 **ashubly25/ashubly25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

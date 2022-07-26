@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning serverless functions.
 - 👯 I’m looking to collaborate on solving problems
 - 💬 Ask me about Frontend, Backend, System Design and Microservice.
-- 📫 Reach me out on [Twitter](https://twitter.com/ashubly25) / [Linkedin](https://www.linkedin.com/in/ashubly25)
+- 📫 Reach me out on [Twitter](https://twitter.com/ashubly25) 
 
 
 

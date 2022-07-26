@@ -1,7 +1,7 @@
 ### Hi I am Ashutosh 👋
 
 - 🔭 I’m currently working on solving minuscle problem through building project.
-- 🌱 I’m currently learning serverless functions.
+- 🌱 I’m currently learning Carbon.
 - 👯 I’m looking to collaborate on solving problems
 - 💬 Ask me about Frontend, Backend, System Design and Microservice.
 - 📫 Reach me out on [Twitter](https://twitter.com/ashubly25) 

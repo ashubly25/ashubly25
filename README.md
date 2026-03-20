@@ -1,6 +1,6 @@
 # Hey, I'm Ashutosh 👋
 
-Senior Frontend Engineer → Full Stack Developer with 6+ years of experience.
+Senior Software Engineer with 6+ years of experience.
 
 - ⚡ React, TypeScript, scalable frontend architecture
 - 🔧 Backend with Node.js, GraphQL, PostgreSQL

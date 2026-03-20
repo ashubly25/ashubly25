@@ -1,12 +1,15 @@
-### Hi I am Ashutosh 👋
+# Hey, I'm Ashutosh 👋
 
-- 🔭 I’m currently working on solving minuscle problem through building project.
-- 🌱 I’m currently building stuff rather than learning.
-- 👯 I’m looking to collaborate on solving problems.
-- 💬 Ask me anything about Full Stack.
-- 📫 Reach me out on [Twitter](https://twitter.com/ashubly25) 
+Senior Frontend Engineer → Full Stack Developer with 6+ years of experience.
 
+- ⚡ React, TypeScript, scalable frontend architecture
+- 🔧 Backend with Node.js, GraphQL, PostgreSQL
+- 🚀 Built multi-tenant SaaS systems & real-time platforms
+- 🧠 Currently diving deep into System Design, DevOps, and Rust
 
+I like building systems that are fast, scalable, and actually used.
+
+Let's build something impactful.
 
 <!--
 **ashubly25/ashubly25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

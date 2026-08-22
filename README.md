@@ -1,15 +1,6 @@
 # Hey, I'm Ashutosh 👋
 
-Senior Software Engineer with 6+ years of experience.
-
-- ⚡ React, TypeScript, scalable frontend architecture
-- 🔧 Backend with Node.js, GraphQL, PostgreSQL
-- 🚀 Built multi-tenant SaaS systems & real-time platforms
-- 🧠 Currently diving deep into System Design, DevOps, and Rust
-
-I like building systems that are fast, scalable, and actually used.
-
-Let's build something impactful.
+Software engineer focused on distributed systems, developer infrastructure, and production-grade AI systems. I build and operate systems end-to-end, from architecture and implementation to deployment and reliability.
 
 <!--
 **ashubly25/ashubly25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -180,7 +180,13 @@ Software engineer focused on distributed systems, developer infrastructure, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashubly25\&theme=radical)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Ashutosh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Ashutosh's Top Languages" />
+</p>
 
 ![Ashubly25's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashubly25\&show_icons=true\&theme=radical\&include_all_commits=true)
 

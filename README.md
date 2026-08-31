@@ -6,8 +6,6 @@ Software engineer focused on distributed systems, developer infrastructure, and 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashubly25\&theme=radical)
 
-![Ashubly25's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashubly25)
-
 ![Ashubly25's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashubly25\&show_icons=true\&theme=radical\&include_all_commits=true)
 
 

@@ -2,10 +2,6 @@
 
 Software engineer working on **distributed systems, developer infrastructure, and production-grade AI systems**. I build and operate things end-to-end — architecture, implementation, deployment, and the reliability work that comes after.
 
-Currently in New Delhi. Open source with [@fossasia](https://github.com/fossasia) and [@OpenGenus](https://github.com/OpenGenus).
-
----
-
 ### Selected work
 
 **[backblaze-integrations](https://github.com/ashubly25/backblaze-integrations)** · `Go`
